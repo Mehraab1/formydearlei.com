@@ -65,6 +65,8 @@ export default function LetterPage({ setCurrentPage }) {
                     <div className="w-8 h-0.5 bg-pink-200 rounded-full"></div>
                     <div className="w-6 h-0.5 bg-purple-200 rounded-full"></div>
                     <div className="w-10 h-0.5 bg-pink-200 rounded-full"></div>
+                    <div className="w-6 h-0.5 bg-purple-200 rounded-full"></div>
+                    <div className="w-8 h-0.5 bg-pink-200 rounded-full"></div>
                   </div>
                   <div className="flex justify-center space-x-1 mt-1">
                     <div className="w-12 h-0.5 bg-purple-200 rounded-full"></div>
@@ -170,4 +172,5 @@ export default function LetterPage({ setCurrentPage }) {
     </div>
   )
 }
+
 
